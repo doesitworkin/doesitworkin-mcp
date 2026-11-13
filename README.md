@@ -62,6 +62,15 @@ npx skills add doesitworkin/doesitworkin-mcp
 
 or copy the folder into your agent's skills directory (for Claude Code, `~/.claude/skills/doesitworkin/`).
 
+
+### One-line prompt for any AI agent
+
+Paste into Claude Code, Cursor, Codex, or Gemini CLI:
+
+```text
+Read https://raw.githubusercontent.com/doesitworkin/doesitworkin-mcp/main/skills/doesitworkin/SKILL.md and check whether an AI or streaming service works in a given country.
+```
+
 ## Support
 
 support@doesitworkin.com

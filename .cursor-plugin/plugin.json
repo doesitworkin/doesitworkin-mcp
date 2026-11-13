@@ -1,0 +1,38 @@
+{
+  "name": "doesitworkin-mcp",
+  "version": "1.0.0",
+  "description": "Verified travel compatibility for eSIMs, VPNs, Alipay/WeChat Pay, IC cards and maps abroad.",
+  "author": {
+    "name": "Does It Work In",
+    "url": "https://doesitworkin.com"
+  },
+  "homepage": "https://doesitworkin.com/about",
+  "repository": "https://github.com/doesitworkin/doesitworkin-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "country-availability",
+    "regional-availability",
+    "ai-availability",
+    "travel",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json",
+  "category": "search",
+  "tags": [
+    "mcp",
+    "mcp-server",
+    "country-availability",
+    "regional-availability",
+    "ai-availability",
+    "travel",
+    "skills"
+  ],
+  "logo": "https://raw.githubusercontent.com/doesitworkin/doesitworkin-mcp/main/logo.png"
+}

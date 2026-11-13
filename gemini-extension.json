@@ -1,0 +1,11 @@
+{
+  "name": "doesitworkin-mcp",
+  "version": "1.0.0",
+  "description": "Verified travel compatibility for eSIMs, VPNs, Alipay/WeChat Pay, IC cards and maps abroad.",
+  "mcpServers": {
+    "doesitworkin": {
+      "type": "http",
+      "url": "https://doesitworkin.com/mcp"
+    }
+  }
+}

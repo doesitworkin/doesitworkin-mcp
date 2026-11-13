@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "doesitworkin": {
+      "type": "http",
+      "url": "https://doesitworkin.com/mcp"
+    }
+  }
+}
