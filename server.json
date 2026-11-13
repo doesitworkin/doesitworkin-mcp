@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.doesitworkin/doesitworkin",
+  "title": "Does It Work In",
+  "description": "Verified travel compatibility for eSIMs, VPNs, Alipay/WeChat Pay, IC cards and maps abroad.",
+  "version": "1.0.0",
+  "websiteUrl": "https://doesitworkin.com/about",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://doesitworkin.com/mcp"
+    }
+  ]
+}
